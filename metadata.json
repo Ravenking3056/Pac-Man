@@ -1,0 +1,25 @@
+{{
+"name": "Meme Maze",
+"description": "A playable Pac-Man style NFT game. Navigate the maze, collect dots, avoid meme ghosts, and compete for the highest score.",
+"external_url": "https://ravenking3056.github.io/Pac-Man/",
+"image": "https://ravenking3056.github.io/Pac-Man/preview.png",
+"animation_url": "https://ravenking3056.github.io/Pac-Man/",
+"attributes": [
+{
+"trait_type": "Genre",
+"value": "Arcade"
+},
+{
+"trait_type": "Style",
+"value": "Pac-Man Inspired"
+},
+{
+"trait_type": "Interactive",
+"value": "Yes"
+},
+{
+"trait_type": "Blockchain",
+"value": "Base"
+}
+]
+}
